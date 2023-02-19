@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Room",
+    "categoria": "Lonely",
+    "precio": 10,
+    "img": "./imagenes/gamadenoche.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Train",
+    "categoria": "Lonely",
+    "precio": 20,
+    "img": "./imagenes/gamadenoche2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Video",
+    "categoria": "Distraction",
+    "precio": 35,
+    "img": "./imagenes/gamadenoche3.png"
+  },
+  {
+    "id": 4,
+    "nombre": " Sidewalk",
+    "categoria": "Distraction",
+    "precio": 15,
+    "img": "./imagenes/gamadenoche4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "False Bowie",
+    "categoria": "People",
+    "precio": 50,
+    "img": "./imagenes/copia.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "G2",
+    "categoria": "People",
+    "precio": 65,
+    "img": "./imagenes/symbioticself.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Pops",
+    "categoria": "Inside",
+    "precio": 80,
+    "img": "./imagenes/carrousel2-min.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Again",
+    "categoria": "Inside",
+    "precio": 40,
+    "img": "./imagenes/mg-min.jpg"
+  }
+]
